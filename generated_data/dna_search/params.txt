@@ -1,0 +1,6 @@
+L = 100
+kon = 0.5
+koff = 1
+u = 2
+
+target = 60
